@@ -1,3 +1,5 @@
+; $Id$
+
 core = "6.x"
 
 projects[ctools][version] = "1.3"
