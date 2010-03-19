@@ -12,9 +12,9 @@ on top of Kit can be compatible.
 
 Coming.
 
-Related reading: Drupal Feature compatibility [2].
+- KIT Feature Specification (kitf 1.0-draft) [2]
 
 *Dedicated to Beth MacWright.*
 
 [1] http://drupal.org/project/ctools
-[2] http://gist.github.com/336031
+[2] http://drupalcode.org/viewvc/drupal/contributions/modules/kit/kitf.txt?view=co
