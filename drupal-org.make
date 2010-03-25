@@ -10,7 +10,7 @@ projects[devel][version] = "1.19"
 projects[features][version] = "1.0-beta6"
 projects[context][version] = "3.0-beta4"
 projects[strongarm][version] = "2.0-rc1"
-projects[views][version] = "2.8"
+projects[views][version] = "3.0-alpha2"
 
 ; Themes
 projects[tao][download][type] = "get"
