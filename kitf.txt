@@ -135,7 +135,7 @@ exported or configured by a feature:
 - `anonymous user` is a Drupal user who has not been authenticated on the site.
 - `authenticated user` is a Drupal user who has been authenticated and is
 currently logged in on the site.
-- `admin` is a Drupal user with administrative duties and is expected to perform
+- `administrator` is a Drupal user with administrative duties and is expected to perform
 site building and configuration tasks.
 
 Additional roles may be provided by a feature if appropriate for its use case.
