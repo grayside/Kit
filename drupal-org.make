@@ -20,3 +20,8 @@ projects[strongarm][version] = "2.0-rc1"
 projects[strongarm][subdir] = "kit"
 projects[views][version] = "3.0-alpha3"
 projects[views][subdir] = "kit"
+
+; Patches
+; http://drupal.org/node/670344
+projects[cck][patch][] = http://drupal.org/files/issues/cck-views-3.patch
+
