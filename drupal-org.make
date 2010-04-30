@@ -24,4 +24,5 @@ projects[views][subdir] = "kit"
 ; Patches
 ; http://drupal.org/node/670344
 projects[cck][patch][] = http://drupal.org/files/issues/cck-views-3.patch
-
+; http://drupal.org/node/786542
+projects[context][patch][] = http://drupal.org/files/issues/php53clonefailpatchfail.patch
