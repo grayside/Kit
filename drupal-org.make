@@ -39,3 +39,6 @@ projects[context][patch][] = http://drupal.org/files/issues/php53clonefailpatchf
 
 ; http://drupal.org/node/789556
 projects[features][patch][] = http://drupal.org/files/issues/789556-1_taxonomy_0.patch
+
+; http://drupal.org/node/789674
+projects[views][patch][] = http://drupal.org/files/issues/789674-1_vocabulary_module.patch
