@@ -38,7 +38,7 @@ projects[cck][patch][] = http://drupal.org/files/issues/cck-views-3.patch
 projects[context][patch][] = http://drupal.org/files/issues/php53clonefailpatchfail.patch
 
 ; http://drupal.org/node/789556
-projects[features][patch][] = http://drupal.org/files/issues/789556-1_taxonomy_0.patch
+projects[features][patch][] = http://drupal.org/files/issues/789556-4_taxonomy.patch 
 
 ; http://drupal.org/node/789674
 projects[views][patch][] = http://drupal.org/files/issues/789674-3_vocabulary_module.patch 
