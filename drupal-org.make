@@ -23,6 +23,9 @@ projects[features][subdir] = "kit"
 projects[context][version] = "3.0-beta4"
 projects[context][subdir] = "kit"
 
+projects[openidadmin][version] = "1.2"
+projects[openidadmin][subdir] = "kit"
+
 projects[strongarm][version] = "2.0-rc1"
 projects[strongarm][subdir] = "kit"
 
@@ -38,7 +41,7 @@ projects[cck][patch][] = http://drupal.org/files/issues/cck-views-3.patch
 projects[context][patch][] = http://drupal.org/files/issues/php53clonefailpatchfail.patch
 
 ; http://drupal.org/node/789556
-projects[features][patch][] = http://drupal.org/files/issues/789556-4_taxonomy.patch 
+projects[features][patch][] = http://drupal.org/files/issues/789556-4_taxonomy.patch
 
 ; http://drupal.org/node/789674
-projects[views][patch][] = http://drupal.org/files/issues/789674-3_vocabulary_module.patch 
+projects[views][patch][] = http://drupal.org/files/issues/789674-3_vocabulary_module.patch
