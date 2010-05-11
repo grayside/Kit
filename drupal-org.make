@@ -29,7 +29,10 @@ projects[openidadmin][subdir] = "kit"
 projects[strongarm][version] = "2.0-rc1"
 projects[strongarm][subdir] = "kit"
 
-projects[views][version] = "3.0-alpha3"
+projects[views][type] = "module"
+projects[views][download][type] = "cvs"
+projects[views][download][module] = "contributions/modules/views"
+projects[views][download][revision] = "DRUPAL-6--3:2010-05-11"
 projects[views][subdir] = "kit"
 
 ; Patches
