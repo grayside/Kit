@@ -62,6 +62,15 @@ to which they comply. Example:
     kitf = "1.0-draft"
 
 
+### Distro features
+
+Some features cannot comply with this specification and should not aim to.
+Features that package configuration above and beyond any specific user stories
+or play a setup and site configuration role similar to install profiles are
+called distro features. Kit compliant features can expect distro features to
+claim variables like `site_frontpage` and permissions like `access content`.
+
+
 2. Namespaces
 -------------
 The naming of a feature and its components are critical to its viability as a
@@ -135,8 +144,8 @@ exported or configured by a feature:
 - `anonymous user` is a Drupal user who has not been authenticated on the site.
 - `authenticated user` is a Drupal user who has been authenticated and is
 currently logged in on the site.
-- `administrator` is a Drupal user with administrative duties and is expected to perform
-site building and configuration tasks.
+- `administrator` is a Drupal user with administrative duties and is expected
+to perform site building and configuration tasks.
 
 Additional roles may be provided by a feature if appropriate for its use case.
 
