@@ -1,4 +1,3 @@
-$Id$
 
 KIT Theme Specification (kitt 1.0-draft)
 ------------------------------------------
