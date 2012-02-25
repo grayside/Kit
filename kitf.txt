@@ -399,9 +399,9 @@ block. It may not adjust visibility settings for the "User login" block.
 ### 6.1 Theme regions
 
 Drupal's theme layer allows themes to implement any number of custom regions and
-omit ones referenced by the default core theme Garland. A feature should one of
-the following regions for blocks critical to its functionality and can expect a
-compliant theme to support them.
+omit ones referenced by the default core theme Garland. A feature should use one
+of the following regions for blocks critical to its functionality and can expect
+a compliant theme to support them.
 
 - `content`: The main page content region.
 - `left`: The lefthand sidebar.
